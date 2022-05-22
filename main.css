@@ -1,0 +1,55 @@
+body{
+
+    background-color: #232323;
+}
+
+.container{
+    max-width: 600px;
+    margin: auto;
+}
+
+button{
+    width: 130px;
+    height: 50px;
+    background-color: yellow;
+}
+.square{
+    width: 30%;
+    background-color:aqua;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+    
+}
+
+.message{
+    text-align: center;
+    height: 60px;
+    
+}
+   
+
+h1{
+    color: aqua;
+    text-align: center;
+}
+
+#message{
+    color: burlywood;
+    text-align: center;
+    font-size;40px;
+    font-size-adjust: auto;
+    
+}
+
+#newGame{
+   
+}
+
+#stripe{
+    text-align: center;
+    width: 100%;
+    
+    
+
+}
